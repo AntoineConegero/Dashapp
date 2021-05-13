@@ -1,1 +1,1 @@
-"web: vendor/bin/heroku-php-apache2 public/" 
+web: sh setup.sh && streamlit run temp.py
