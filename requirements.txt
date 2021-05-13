@@ -1,11 +1,6 @@
-import streamlit as st
-import pandas as pd
-import numpy as np 
-import plotly.graph_objects as go
-import time
-import shap
-import pickle
-import xgboost as xgb
-import matplotlib.pyplot as plt
-import altair as alt
-import plotly.express as px
+streamlit==0.79.0
+pandas==1.2.3
+numpy==1.18.5
+matplotlib==3.3.2
+seaborn==0.11.0
+scikit_learn==0.24.1
